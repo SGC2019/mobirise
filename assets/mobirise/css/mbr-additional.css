@@ -1416,7 +1416,7 @@ body {
   box-shadow: none !important;
 }
 .cid-rwmKfuPIPX {
-  background: linear-gradient(45deg, #e4d295, #ff3366);
+  background-image: url("../../../assets/images/-1-2000x1333.jpg");
 }
 .cid-rwmKfuPIPX .mbr-section-subtitle {
   font-style: italic;
@@ -1424,6 +1424,13 @@ body {
 }
 .cid-rwmKfuPIPX .mbr-section-title {
   color: #0f7699;
+}
+.cid-rwmKfuPIPX H3 {
+  color: #cc2952;
+}
+.cid-rwmKfuPIPX .mbr-text,
+.cid-rwmKfuPIPX .mbr-section-btn {
+  color: #232323;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
@@ -1930,78 +1937,6 @@ body {
   .cid-rwmYbGoR2o .period {
     font-size: 0.8rem;
   }
-}
-.cid-rwmYkoBcoY {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rwmYkoBcoY .progress {
-  width: 100%;
-}
-.cid-rwmYkoBcoY progress {
-  height: 8px;
-}
-.cid-rwmYkoBcoY h3 {
-  text-align: center;
-  font-weight: 300;
-}
-.cid-rwmYkoBcoY .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rwmYkoBcoY .progress_value {
-  position: relative;
-}
-.cid-rwmYkoBcoY .progress_elements {
-  margin: 0 auto;
-}
-.cid-rwmYkoBcoY .title-wrap {
-  display: flex;
-  justify-content: space-between;
-  -webkit-justify-content: space-between;
-}
-.cid-rwmYkoBcoY .progress1 .progressbar-number:before,
-.cid-rwmYkoBcoY .progress2 .progressbar-number:before,
-.cid-rwmYkoBcoY .progress3 .progressbar-number:before,
-.cid-rwmYkoBcoY .progress4 .progressbar-number:before {
-  position: absolute;
-  right: 15px;
-  top: 0;
-}
-.cid-rwmYkoBcoY progress[value]::-webkit-progress-bar {
-  background: rgba(206, 206, 206, 0.4);
-}
-.cid-rwmYkoBcoY progress::-webkit-progress-value {
-  background: #149dcc;
-}
-.cid-rwmYkoBcoY progress[value]::-moz-progress-bar {
-  background: #149dcc;
-}
-.cid-rwmYkoBcoY progress::-ms-fill {
-  background: #149dcc;
-}
-.cid-rwmYkoBcoY .progress1 .progressbar-number:before {
-  content: '13';
-}
-.cid-rwmYkoBcoY .progress2 .progressbar-number:before {
-  content: '80';
-}
-.cid-rwmYkoBcoY .progress3 .progressbar-number:before {
-  content: '90';
-}
-.cid-rwmYkoBcoY .progress4 .progressbar-number:before {
-  content: '100';
-}
-.cid-rwmYkoBcoY .progress-primary {
-  background: rgba(206, 206, 206, 0.4);
-  border: none;
-  outline: none;
-}
-.cid-rwmYkoBcoY .progress-primary::-webkit-progress-bar {
-  background: rgba(206, 206, 206, 0.4);
-}
-.cid-rwmYkoBcoY .progress_value span {
-  padding-left: 30px;
 }
 .cid-rwn4MGgrGP {
   padding-top: 60px;
